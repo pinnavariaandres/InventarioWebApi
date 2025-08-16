@@ -1,0 +1,15 @@
+C:\Users\Andres\Inventario\Invetory.Persistence\bin\Debug\net9.0\Invetory.Persistence.deps.json
+C:\Users\Andres\Inventario\Invetory.Persistence\bin\Debug\net9.0\Invetory.Persistence.dll
+C:\Users\Andres\Inventario\Invetory.Persistence\bin\Debug\net9.0\Invetory.Persistence.pdb
+C:\Users\Andres\Inventario\Invetory.Persistence\bin\Debug\net9.0\Invetory.Entities.dll
+C:\Users\Andres\Inventario\Invetory.Persistence\bin\Debug\net9.0\Invetory.Entities.pdb
+C:\Users\Andres\Inventario\Invetory.Persistence\obj\Debug\net9.0\Invetory.Persistence.csproj.AssemblyReference.cache
+C:\Users\Andres\Inventario\Invetory.Persistence\obj\Debug\net9.0\Invetory.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\Inventario\Invetory.Persistence\obj\Debug\net9.0\Invetory.Persistence.AssemblyInfoInputs.cache
+C:\Users\Andres\Inventario\Invetory.Persistence\obj\Debug\net9.0\Invetory.Persistence.AssemblyInfo.cs
+C:\Users\Andres\Inventario\Invetory.Persistence\obj\Debug\net9.0\Invetory.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Inventario\Invetory.Persistence\obj\Debug\net9.0\Invetory.320FCCA5.Up2Date
+C:\Users\Andres\Inventario\Invetory.Persistence\obj\Debug\net9.0\Invetory.Persistence.dll
+C:\Users\Andres\Inventario\Invetory.Persistence\obj\Debug\net9.0\refint\Invetory.Persistence.dll
+C:\Users\Andres\Inventario\Invetory.Persistence\obj\Debug\net9.0\Invetory.Persistence.pdb
+C:\Users\Andres\Inventario\Invetory.Persistence\obj\Debug\net9.0\ref\Invetory.Persistence.dll
