@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Invetory.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ebff3be29e29ac600ec2373d1901587b2859b90")]
 [assembly: System.Reflection.AssemblyProductAttribute("Invetory.Persistence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Invetory.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -34,3 +34,4 @@ C:\Users\Andres\Inventario\Inventory.WebApi\obj\Debug\net9.0\refint\Inventory.We
 C:\Users\Andres\Inventario\Inventory.WebApi\obj\Debug\net9.0\Inventory.WebApi.pdb
 C:\Users\Andres\Inventario\Inventory.WebApi\obj\Debug\net9.0\Inventory.WebApi.genruntimeconfig.cache
 C:\Users\Andres\Inventario\Inventory.WebApi\obj\Debug\net9.0\ref\Inventory.WebApi.dll
+C:\Users\Andres\Inventario\Inventory.WebApi\obj\Debug\net9.0\Inventory.WebApi.sourcelink.json

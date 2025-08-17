@@ -9,3 +9,4 @@ C:\Users\Andres\Inventario\Invetory.Entities\obj\Debug\net9.0\Invetory.Entities.
 C:\Users\Andres\Inventario\Invetory.Entities\obj\Debug\net9.0\refint\Invetory.Entities.dll
 C:\Users\Andres\Inventario\Invetory.Entities\obj\Debug\net9.0\Invetory.Entities.pdb
 C:\Users\Andres\Inventario\Invetory.Entities\obj\Debug\net9.0\ref\Invetory.Entities.dll
+C:\Users\Andres\Inventario\Invetory.Entities\obj\Debug\net9.0\Invetory.Entities.sourcelink.json
