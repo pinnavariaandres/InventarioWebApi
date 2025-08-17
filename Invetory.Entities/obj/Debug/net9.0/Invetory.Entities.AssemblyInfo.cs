@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Invetory.Entities")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9274535e19b302c3a228de53d64e5925aec1020f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Invetory.Entities")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Invetory.Entities")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

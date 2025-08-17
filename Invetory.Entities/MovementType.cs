@@ -10,14 +10,16 @@ namespace Invetory.Entities
         public int Id { get; set; }
         public string Name { get; set; } = string.Empty;
 
-        public string Description { get; set; }= string.Empty;
+        public string Description { get; set; } = string.Empty;
 
         public bool IsIncoming { get; set; }
         public bool IsOutcoming { get; set; }
 
         public bool IsInternalTransfer { get; set; }
 
-          public DateTime CreatedAD { get; set; }
-         public DateTime UpdatedAt { get; set; }
+        public DateTime CreatedAD { get; set; }
+        public DateTime UpdatedAt { get; set; }
+         
+         public IEnumerable <InventoryMovement>? InventoryMovements { get; set; }
     }
 }

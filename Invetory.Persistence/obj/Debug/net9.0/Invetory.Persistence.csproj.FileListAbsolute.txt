@@ -13,3 +13,6 @@ C:\Users\Andres\Inventario\Invetory.Persistence\obj\Debug\net9.0\Invetory.Persis
 C:\Users\Andres\Inventario\Invetory.Persistence\obj\Debug\net9.0\refint\Invetory.Persistence.dll
 C:\Users\Andres\Inventario\Invetory.Persistence\obj\Debug\net9.0\Invetory.Persistence.pdb
 C:\Users\Andres\Inventario\Invetory.Persistence\obj\Debug\net9.0\ref\Invetory.Persistence.dll
+C:\Users\Andres\Inventario\Invetory.Persistence\obj\Debug\net9.0\Invetory.Persistence.sourcelink.json
+C:\Users\Andres\Inventario\Invetory.Persistence\bin\Debug\net9.0\Invetory.Persistence.runtimeconfig.json
+C:\Users\Andres\Inventario\Invetory.Persistence\obj\Debug\net9.0\Invetory.Persistence.genruntimeconfig.cache
